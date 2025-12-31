@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rivendell High School</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family: Arial; margin:0; background:#f4f6f9">
+
+<div style="background:#0b3c5d; color:white; padding:20px; text-align:center">
+  <h1>Rivendell High School</h1>
+  <p>Excellence in Education • Character • Leadership</p>
+</div>
+
+<div style="padding:20px">
+  <h2>Welcome</h2>
+  <p>Rivendell High School is committed to providing quality education and preparing students for a bright future.</p>
+
+  <h2>Academics</h2>
+  <ul>
+    <li>Mathematics</li>
+    <li>Sciences</li>
+    <li>Languages</li>
+    <li>Humanities</li>
+    <li>Computer Studies</li>
+  </ul>
+
+  <h2>Student Portal</h2>
+  <p>
+    <a href="https://home-tutor-ec5a2971.base44.app">Access AI Learning Assistant</a>
+  </p>
+
+  <h2>Contact Us</h2>
+  <p>Email: info@rivendellhighschool.com</p>
+  <p>Phone: +265 ...</p>
+</div>
+
+</body>
+</html>
